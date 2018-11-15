@@ -1,0 +1,2 @@
+# magRepo
+my first repository
