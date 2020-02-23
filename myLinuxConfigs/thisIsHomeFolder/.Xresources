@@ -1,0 +1,36 @@
+# disable scrollbar
+URxvt.scrollBar: false
+
+# set rastr font URxvt.font: 9x15
+# URxvt.font: -misc-fixed-medium-r-normal--15-140-75-75-c-90-iso8859-1
+
+# set font
+# URxvt*font: xft:Inconsolata\\-\\dz for Powerline:size=12
+URxvt*font: xft:DejaVu Sans Mono:size=10
+
+# 
+URxvt.letterSpace: -1
+
+# color schema
+# urxvt*color0:    #151b25
+# urxvt*color1:    #7a3842
+# urxvt*color2:    #387a42
+# urxvt*color3:    #7a7a42
+# urxvt*color4:    #334c71
+# urxvt*color5:    #4c4c71
+# urxvt*color6:    #326f9c
+# urxvt*color7:    #ced1d8
+# 
+# urxvt*color8:    #212121
+# urxvt*color9:    #b14654
+# urxvt*color10:   #46b154
+# urxvt*color11:   #b1b154
+# urxvt*color12:   #486da0
+# urxvt*color13:   #6d6da0
+# urxvt*color14:   #4499d5
+# urxvt*color15:   #8f9195
+
+URxvt*background: #151b25
+URxvt*foreground: #D7851D
+URxvt.transparent: true
+URxvt.shading: 30
