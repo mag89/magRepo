@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sudo wifi-menu -o wls3
+
+
+# pacman -S iw wpa_supplicant
+# cp /etc/netctl/examples/wireless-wpa /etc/netctl/MyESSID
+# nano /etc/netctl/MyESSID (прописать интерфейс, имя точки и ключ)
+# netctl enable MyESSID
+# netctl start MyESSID
