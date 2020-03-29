@@ -1,0 +1,194 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/mag/
+	..
+1585399365
+'b
+	/home/mag/bin/
+	..
+1585399365
+'h
+	/home/mag/
+	..
+1585399365
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/
+	etc
+3
+d/etc
+	..
+0
+d/
+	etc
+3
+d/etc
+	xdg
+41
+d/etc/xdg
+	..
+0
+d/etc
+	NetworkManager
+2
+d/etc/NetworkManager
+	conf.d
+1
+d/etc/NetworkManager/conf.d
+	..
+0
+d/etc/NetworkManager
+	dispatcher.d
+2
+d/etc/NetworkManager/dispatcher.d
+	..
+0
+d/etc/NetworkManager
+	NetworkManager.conf
+6
+d/etc
+	ts.conf
+42
+d/
+	home
+4
+d/home
+	..
+0
+d/
+	opt
+9
+d
+
+# Right window history (oldest to newest):
+D/
+	home
+4
+D/home
+	mag
+2
+D/home/mag
+	Downloads
+2
+D/home/mag/Downloads
+	X220_v1.46_Modified_BIOS.zip
+2
+D/home/mag
+	wallpapers
+7
+D/home/mag/wallpapers
+	Etc
+1
+D/home/mag/wallpapers/Etc
+	..
+0
+D/home/mag/wallpapers
+	Spacescapes
+4
+D/home/mag
+	magRepo
+4
+D/home/mag/magRepo
+	myLinuxConfigs
+2
+D/home/mag/magRepo/myLinuxConfigs
+	thisIsHomeFolder
+2
+D/home/mag/magRepo/myLinuxConfigs/thisIsHomeFolder
+	..
+0
+D/home/mag/magRepo/myLinuxConfigs
+	thisIsHomeFolder
+2
+D/home/mag/magRepo/myLinuxConfigs/thisIsHomeFolder
+	..
+0
+D/home/mag/magRepo/myLinuxConfigs
+	thisIsHomeFolder
+2
+D/home/mag/magRepo/myLinuxConfigs/thisIsHomeFolder
+	..
+0
+D/home/mag/magRepo/myLinuxConfigs
+	thisIsHomeFolder
+2
+D/home/mag/magRepo
+	bookmarks
+1
+D/home/mag
+	magRepo
+4
+D/home/mag/magRepo
+	st
+3
+D/home/mag
+	magRepo
+4
+D/home/mag/magRepo
+	bookmarks
+1
+D/home/mag
+	magRepo
+4
+D/home/mag/magRepo
+	myLinuxConfigs
+2
+D/home/mag
+	magRepo
+4
+D/home/mag/magRepo
+	myLinuxConfigs
+2
+D/home/mag
+	10-evdev.conf
+6
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+/netw
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/mag/.local/share/vifm/Trash/000_magUsb
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/mag/.local/share/vifm/Trash/000_FreeBSD-12.1-RELEASE-amd64-memstick.img
+	/home/mag/Downloads/FreeBSD-12.1-RELEASE-amd64-memstick.img
+t/home/mag/.local/share/vifm/Trash/000_out.txt
+	/home/mag/out.txt
+t/home/mag/.local/share/vifm/Trash/000_out2.txt
+	/home/mag/out2.txt
+t/home/mag/.local/share/vifm/Trash/000_magUsb
+	/home/mag/magRepo/magUsb
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
